@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oormila </h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Test Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
-- 🔭 I’m currently learning **Full stack development**
+- 🔭 I’m currently learning **AI With Playwright Automation**
 
-- 🌱 I’m currently learning **Tailwind and React**
-
-- 🤝 I’m looking for help with **doing any full stack project as a intermidate level**
+- 🤝 I’m looking for help with **Who Using AI to Test Web Applications**
 
 - 📫 How to reach me **oormilaoormila03@gmail.com**
 
